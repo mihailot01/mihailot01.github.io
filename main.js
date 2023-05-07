@@ -1,9 +1,9 @@
 document.getElementById("business-hosting").addEventListener("click", function() {
-    location.href = "/CyperWebb/business-hosting.html";
+    location.href = "/business-hosting.html";
 });
 
 document.getElementById("web-hosting").addEventListener("click", function() {
-    location.href = "/CyperWebb/web-hosting.html";
+    location.href = "/web-hosting.html";
 });
 
 //set on clock listener to button with id domain-serach-button
